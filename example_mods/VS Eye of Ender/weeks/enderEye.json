@@ -1,0 +1,31 @@
+{
+	"storyName": "\"Two-eyes never get placed like that!\"",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "oceanBg",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"enderEye",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Eye Spy",
+			"endereye",
+			[
+				78,
+				131,
+				134
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Eye of Ender"
+}
