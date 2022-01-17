@@ -1,0 +1,6 @@
+Change a property in PlayState.hx.
+
+Value 1: The name of the object e.g. "health",
+"boyfriend.curCharacter".
+Value 2: The value to set to. Will automatically change
+to a string, number, or boolean if needed.

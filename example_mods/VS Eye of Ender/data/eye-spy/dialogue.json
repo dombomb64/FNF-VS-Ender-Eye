@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey wait"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enderEye",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "before you turn back into an item or pop or whatever"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enderEye",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "!"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "r a p"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enderEye",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "*speaks enchantment table* (translation: omg really no way)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "im just gonna pretend i understood that"
+		}
+	]
+}

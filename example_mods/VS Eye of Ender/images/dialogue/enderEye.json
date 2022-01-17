@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		170,
+		110
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Talk Default Loop",
+			"idle_name": "Talk Default"
+		},
+		{
+			"loop_name": "Talk Happy Loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Talk Happy",
+			"anim": "happy",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "Talk Angry Loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Talk Angry",
+			"anim": "angry",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "enderEye_Dialogue"
+}
