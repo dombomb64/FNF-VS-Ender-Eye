@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "enderEye",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "*speaks more enchantment table* (translation: omg that was so fun)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "do you want another round or something"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "enderEye",
+			"boxState": "normal",
+			"expression": "happy",
+			"text": "*speaks even more enchantment table*\\n(translation: YEAH YEAH YEAH)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why do i even try"
+		}
+	]
+}

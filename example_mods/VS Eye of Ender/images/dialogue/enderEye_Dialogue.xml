@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="enderEye_Dialogue.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Talk Angry Loop instance 10000" x="30" y="30" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10001" x="30" y="30" width="162" height="163" frameX="0" frameY="-45" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10002" x="30" y="30" width="162" height="163" frameX="0" frameY="-33" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10003" x="30" y="30" width="162" height="163" frameX="0" frameY="-17" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10004" x="30" y="30" width="162" height="163" frameX="0" frameY="-5" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10005" x="30" y="30" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10006" x="30" y="30" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10007" x="30" y="30" width="162" height="163" frameX="0" frameY="-5" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10008" x="30" y="30" width="162" height="163" frameX="0" frameY="-17" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10009" x="30" y="30" width="162" height="163" frameX="0" frameY="-33" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10010" x="30" y="30" width="162" height="163" frameX="0" frameY="-45" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry Loop instance 10011" x="30" y="30" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10000" x="30" y="30" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10001" x="30" y="30" width="162" height="163" frameX="0" frameY="-48" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10002" x="30" y="30" width="162" height="163" frameX="0" frameY="-46" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10003" x="30" y="30" width="162" height="163" frameX="0" frameY="-41" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10004" x="30" y="30" width="162" height="163" frameX="0" frameY="-35" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10005" x="30" y="30" width="162" height="163" frameX="0" frameY="-28" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10006" x="30" y="30" width="162" height="163" frameX="0" frameY="-21" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10007" x="30" y="30" width="162" height="163" frameX="0" frameY="-15" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10008" x="30" y="30" width="162" height="163" frameX="0" frameY="-9" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10009" x="30" y="30" width="162" height="163" frameX="0" frameY="-4" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10010" x="30" y="30" width="162" height="163" frameX="0" frameY="-1" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10011" x="30" y="30" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10012" x="30" y="30" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10013" x="30" y="30" width="162" height="163" frameX="0" frameY="-1" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10014" x="30" y="30" width="162" height="163" frameX="0" frameY="-4" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10015" x="30" y="30" width="162" height="163" frameX="0" frameY="-9" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10016" x="30" y="30" width="162" height="163" frameX="0" frameY="-15" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10017" x="30" y="30" width="162" height="163" frameX="0" frameY="-21" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10018" x="30" y="30" width="162" height="163" frameX="0" frameY="-28" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10019" x="30" y="30" width="162" height="163" frameX="0" frameY="-35" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10020" x="30" y="30" width="162" height="163" frameX="0" frameY="-41" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10021" x="30" y="30" width="162" height="163" frameX="0" frameY="-46" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10022" x="30" y="30" width="162" height="163" frameX="0" frameY="-48" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Angry instance 10023" x="30" y="30" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10000" x="222" y="30" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10001" x="222" y="30" width="162" height="163" frameX="0" frameY="-45" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10002" x="222" y="30" width="162" height="163" frameX="0" frameY="-33" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10003" x="222" y="30" width="162" height="163" frameX="0" frameY="-17" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10004" x="222" y="30" width="162" height="163" frameX="0" frameY="-5" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10005" x="222" y="30" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10006" x="222" y="30" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10007" x="222" y="30" width="162" height="163" frameX="0" frameY="-5" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10008" x="222" y="30" width="162" height="163" frameX="0" frameY="-17" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10009" x="222" y="30" width="162" height="163" frameX="0" frameY="-33" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10010" x="222" y="30" width="162" height="163" frameX="0" frameY="-45" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default Loop instance 10011" x="222" y="30" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10000" x="222" y="30" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10001" x="222" y="30" width="162" height="163" frameX="0" frameY="-48" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10002" x="222" y="30" width="162" height="163" frameX="0" frameY="-46" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10003" x="222" y="30" width="162" height="163" frameX="0" frameY="-41" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10004" x="222" y="30" width="162" height="163" frameX="0" frameY="-35" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10005" x="222" y="30" width="162" height="163" frameX="0" frameY="-28" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10006" x="222" y="30" width="162" height="163" frameX="0" frameY="-21" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10007" x="222" y="30" width="162" height="163" frameX="0" frameY="-15" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10008" x="222" y="30" width="162" height="163" frameX="0" frameY="-9" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10009" x="222" y="30" width="162" height="163" frameX="0" frameY="-4" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10010" x="222" y="30" width="162" height="163" frameX="0" frameY="-1" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10011" x="222" y="30" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10012" x="222" y="30" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10013" x="222" y="30" width="162" height="163" frameX="0" frameY="-1" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10014" x="222" y="30" width="162" height="163" frameX="0" frameY="-4" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10015" x="222" y="30" width="162" height="163" frameX="0" frameY="-9" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10016" x="222" y="30" width="162" height="163" frameX="0" frameY="-15" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10017" x="222" y="30" width="162" height="163" frameX="0" frameY="-21" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10018" x="222" y="30" width="162" height="163" frameX="0" frameY="-28" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10019" x="222" y="30" width="162" height="163" frameX="0" frameY="-35" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10020" x="222" y="30" width="162" height="163" frameX="0" frameY="-41" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10021" x="222" y="30" width="162" height="163" frameX="0" frameY="-46" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10022" x="222" y="30" width="162" height="163" frameX="0" frameY="-48" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Default instance 10023" x="222" y="30" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10000" x="30" y="223" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10001" x="30" y="223" width="162" height="163" frameX="0" frameY="-45" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10002" x="30" y="223" width="162" height="163" frameX="0" frameY="-33" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10003" x="30" y="223" width="162" height="163" frameX="0" frameY="-17" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10004" x="30" y="223" width="162" height="163" frameX="0" frameY="-5" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10005" x="30" y="223" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10006" x="30" y="223" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10007" x="30" y="223" width="162" height="163" frameX="0" frameY="-5" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10008" x="30" y="223" width="162" height="163" frameX="0" frameY="-17" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10009" x="30" y="223" width="162" height="163" frameX="0" frameY="-33" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10010" x="30" y="223" width="162" height="163" frameX="0" frameY="-45" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy Loop instance 10011" x="30" y="223" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10000" x="30" y="223" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10001" x="30" y="223" width="162" height="163" frameX="0" frameY="-48" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10002" x="30" y="223" width="162" height="163" frameX="0" frameY="-46" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10003" x="30" y="223" width="162" height="163" frameX="0" frameY="-41" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10004" x="30" y="223" width="162" height="163" frameX="0" frameY="-35" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10005" x="30" y="223" width="162" height="163" frameX="0" frameY="-28" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10006" x="30" y="223" width="162" height="163" frameX="0" frameY="-21" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10007" x="30" y="223" width="162" height="163" frameX="0" frameY="-15" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10008" x="30" y="223" width="162" height="163" frameX="0" frameY="-9" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10009" x="30" y="223" width="162" height="163" frameX="0" frameY="-4" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10010" x="30" y="223" width="162" height="163" frameX="0" frameY="-1" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10011" x="30" y="223" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10012" x="30" y="223" width="162" height="163" frameX="0" frameY="0" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10013" x="30" y="223" width="162" height="163" frameX="0" frameY="-1" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10014" x="30" y="223" width="162" height="163" frameX="0" frameY="-4" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10015" x="30" y="223" width="162" height="163" frameX="0" frameY="-9" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10016" x="30" y="223" width="162" height="163" frameX="0" frameY="-15" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10017" x="30" y="223" width="162" height="163" frameX="0" frameY="-21" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10018" x="30" y="223" width="162" height="163" frameX="0" frameY="-28" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10019" x="30" y="223" width="162" height="163" frameX="0" frameY="-35" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10020" x="30" y="223" width="162" height="163" frameX="0" frameY="-41" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10021" x="30" y="223" width="162" height="163" frameX="0" frameY="-46" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10022" x="30" y="223" width="162" height="163" frameX="0" frameY="-48" frameWidth="162" frameHeight="212"/>
+	<SubTexture name="Talk Happy instance 10023" x="30" y="223" width="162" height="163" frameX="0" frameY="-49" frameWidth="162" frameHeight="212"/>
+</TextureAtlas>

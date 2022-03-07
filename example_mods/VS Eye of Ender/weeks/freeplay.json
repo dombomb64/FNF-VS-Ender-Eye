@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Defeat",
+			"enderEyeImpostor",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "let's [share encrypted files] on >insert url ending in .job here<",
+	"difficulties": "",
+	"weekCharacters": [
+		"gf",
+		"gf",
+		"gf"
+	],
+	"storyName": "\"Mysticat, can we get a victory meow?\" \"M E W O\"",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
