@@ -1,7 +1,7 @@
 {
 	"song": {
 		"player1": "bf",
-		"player2": "endereye",
+		"player2": "enderEye",
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -3441,7 +3441,7 @@
 				"mustHitSection": true
 			}
 		],
-		"player3": "gf",
+		"player3": "noGf",
 		"song": "Eye Spy",
 		"stage": "oceanBg",
 		"needsVoices": true,
